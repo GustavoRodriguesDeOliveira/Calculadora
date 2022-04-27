@@ -1,0 +1,10 @@
+C:\Users\gustavo.roliveira24\source\repos\Projeto.Calculadora\Projeto.Calculadora\bin\Debug\Projeto.Calculadora.exe.config
+C:\Users\gustavo.roliveira24\source\repos\Projeto.Calculadora\Projeto.Calculadora\bin\Debug\Projeto.Calculadora.exe
+C:\Users\gustavo.roliveira24\source\repos\Projeto.Calculadora\Projeto.Calculadora\bin\Debug\Projeto.Calculadora.pdb
+C:\Users\gustavo.roliveira24\source\repos\Projeto.Calculadora\Projeto.Calculadora\obj\Debug\Projeto.Calculadora.csproj.AssemblyReference.cache
+C:\Users\gustavo.roliveira24\source\repos\Projeto.Calculadora\Projeto.Calculadora\obj\Debug\Projeto.Calculadora.Form1.resources
+C:\Users\gustavo.roliveira24\source\repos\Projeto.Calculadora\Projeto.Calculadora\obj\Debug\Projeto.Calculadora.Properties.Resources.resources
+C:\Users\gustavo.roliveira24\source\repos\Projeto.Calculadora\Projeto.Calculadora\obj\Debug\Projeto.Calculadora.csproj.GenerateResource.cache
+C:\Users\gustavo.roliveira24\source\repos\Projeto.Calculadora\Projeto.Calculadora\obj\Debug\Projeto.Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.roliveira24\source\repos\Projeto.Calculadora\Projeto.Calculadora\obj\Debug\Projeto.Calculadora.exe
+C:\Users\gustavo.roliveira24\source\repos\Projeto.Calculadora\Projeto.Calculadora\obj\Debug\Projeto.Calculadora.pdb
